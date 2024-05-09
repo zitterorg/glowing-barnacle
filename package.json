@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/glowing-barnacle",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -188,5 +188,5 @@
   "bugs": {
     "url": "https://github.com/zitterorg/glowing-barnacle/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
